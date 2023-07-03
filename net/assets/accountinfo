@@ -1,0 +1,6 @@
+username=<<$username>>
+concurrents=<<$concurrents>>
+timelimit=<<$timelimit>>
+cooldown=<<$cooldown>>
+expiry=<<$expiry>> day(s) left
+Myclient=<<$remoteclient>>

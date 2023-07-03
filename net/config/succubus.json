@@ -1,0 +1,122 @@
+{
+    "key":"",
+
+	"mysql":{
+		"address":"127.0.0.1:3306",
+		"username":"root",
+		"password":"Ashveryop",
+		"table":"weeee"
+	},
+
+	"connection":{
+		"port":42099
+	},
+
+    "fakecount":{
+        "enabled":False,
+        "port":123,
+        "delay":0,
+        "chance":100,
+        "minimum":2853,
+        "maximum":3014
+    },
+
+    "branding":{
+
+        "title":"3847 Bots | Demise C2 | Active Sessions <<$onlineusers>> | <<$expiry>> ",
+    "prompt":"<theme></>[<theme><<$username>>[0;31m@botnet</>]",
+		
+        "assets":{
+            "welcome":"succ",
+            "banner":"succ",
+	    "attack":"attack"
+        },
+	    
+        "login":{
+            "custom":false,
+            "title":"Welcome to Demise C2",
+            "asset":"login",
+
+	    "getuser":"<<include(user)>>",
+            "getpass":"<<include(pass)>>"
+        },
+
+        "tos":{ 
+            "enabled":false,
+            "title":"Succubus TOS (unused) plopp wanted this lol",
+            "asset":"tos",
+            "prompt":"succubus/tos >",
+            "answer":"i agree"
+        },
+	"otp":{
+	    "-Comment- Remove this line" : "This will force all users to enable otp before using their account!",
+            "enabled":false,
+            "title":"[<<$spinner>>] Succcubus Otp [<<$spinner>>]",
+            "asset":"otp",
+            "prompt":"codeplz> "
+        },
+
+        "errors":{
+            "403":"<theme>You dont have access to run this command!</>",
+            "404":"<theme>No such command!</>",
+            "500":"<theme>500 Asset Error!</>"
+        },
+
+        "hardcoded":{
+        
+            "-Comment- Remove this line" : "Removing them will also disable them keep this in mind!",
+    
+            "help":true,
+            "methods":false,
+            "key":false,
+            "tools":true,
+            "devices":false,
+            "theme":false,
+            "attack":true,
+            "chat":false,
+            "shop":false
+        },
+
+        "captcha":{
+            "enabled":true,
+            "title":"Demise C2, Complete Captcha To Continue",
+            "asset":"captcha",
+            "prompt":"captcha> "
+        },
+
+        "misc":{
+            "idle timeout":2600,
+	    "prompt check":false,
+            "lock host":false,
+            "lock timezone":true,
+		
+            "chat cooldown":5,
+
+            "spinner":["<   3","<-  3","< - 3","<  -3"],
+
+            "prompt colors":[
+                {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                }
+
+            ],
+            "invert gradients":false,
+            "gradient":[
+                {
+                    "r": 222,
+                    "g": 3,
+                    "b": 244
+                },
+                {
+                    "r": 0,
+                    "g": 46,
+                    "b": 250
+                }
+                
+            ]
+
+        }
+    }
+}

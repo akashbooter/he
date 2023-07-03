@@ -1,0 +1,428 @@
+succubus -> 2023/07/02 16:34:19 [root:Login] 149.167.160.51:3443 Australia/Perth
+succubus -> 2023/07/02 16:41:23 [root:Login] 149.167.160.51:3505 Australia/Perth
+succubus -> 2023/07/02 16:44:12 [root:Login] 58.179.166.63:53020 Australia/Melbourne
+succubus -> 2023/07/02 16:44:28 [root:Command] methods
+succubus -> 2023/07/02 16:44:38 [root:Command] cls
+succubus -> 2023/07/02 16:44:45 [root:Command] cls
+succubus -> 2023/07/02 16:44:51 [root:Command] methods
+succubus -> 2023/07/02 16:46:03 [root:Command] help
+succubus -> 2023/07/02 16:46:35 [root:Command] methods
+succubus -> 2023/07/02 16:46:37 [root:Command] cls
+succubus -> 2023/07/02 16:46:42 [root:Command] methods
+succubus -> 2023/07/02 16:50:39 [root:Login] 58.179.166.63:53247 Australia/Melbourne
+succubus -> 2023/07/02 16:52:09 [root:Command] cls
+succubus -> 2023/07/02 16:52:20 [root:Command] methods
+succubus -> 2023/07/02 16:53:08 [root:Command] cls
+succubus -> 2023/07/02 16:58:15 [root:Command] thmes
+succubus -> 2023/07/02 16:58:17 [root:Command] themes
+succubus -> 2023/07/02 16:58:20 [root:Command] themeslist
+succubus -> 2023/07/02 16:58:22 [root:Command] list
+succubus -> 2023/07/02 16:58:25 [root:Command] theme list
+succubus -> 2023/07/02 16:58:35 [root:Command] blackjack
+succubus -> 2023/07/02 16:58:37 [root:Command] cls
+succubus -> 2023/07/02 17:00:02 [root:Command] theme set blackjack
+succubus -> 2023/07/02 17:00:13 [root:Command] theme select blackjack
+succubus -> 2023/07/02 17:00:20 [root:Command] cls
+succubus -> 2023/07/02 17:00:25 [root:Command] themes
+succubus -> 2023/07/02 17:00:29 [root:Command] themes
+succubus -> 2023/07/02 17:00:32 [root:Command] themes list
+succubus -> 2023/07/02 17:00:37 [root:Command] theme list
+succubus -> 2023/07/02 17:00:53 [root:Command] theme select flavors
+succubus -> 2023/07/02 17:00:58 [root:Command] methods
+succubus -> 2023/07/02 17:01:00 [root:Command] cls
+succubus -> 2023/07/02 17:02:04 [root:Command] theme list
+succubus -> 2023/07/02 17:02:16 [root:Command] theme select neko
+succubus -> 2023/07/02 17:02:24 [root:Command] theme select cyber
+succubus -> 2023/07/02 17:02:29 [root:Command] cls
+succubus -> 2023/07/02 17:02:35 [root:Command] methods
+succubus -> 2023/07/02 17:02:38 [root:Command] theme list
+succubus -> 2023/07/02 17:03:44 [root:Command] theme select gamer rgb
+succubus -> 2023/07/02 17:03:59 [root:Command] theme select razer
+succubus -> 2023/07/02 17:04:04 [root:Command] theme select
+succubus -> 2023/07/02 17:04:09 [root:Command] heme list
+succubus -> 2023/07/02 17:04:12 [root:Command] theme list
+succubus -> 2023/07/02 17:04:18 [root:Command] alternate
+succubus -> 2023/07/02 17:04:24 [root:Command] theme select alternate
+succubus -> 2023/07/02 17:04:32 [root:Command] theme select default
+succubus -> 2023/07/02 17:04:37 [root:Command] cls
+succubus -> 2023/07/02 17:04:42 [root:Command] cls
+succubus -> 2023/07/02 17:06:44 [root:Command] cls
+succubus -> 2023/07/02 17:06:58 [root:Command] methods
+succubus -> 2023/07/02 17:07:03 [root:Command] cls
+succubus -> 2023/07/02 17:07:12 [root:Command] cls
+succubus -> 2023/07/02 17:07:48 [root:Login] 58.179.166.63:53853 Australia/Melbourne
+succubus -> 2023/07/02 17:09:33 [root:Command] cls
+succubus -> 2023/07/02 17:13:02 [root:Command] cls
+succubus -> 2023/07/02 17:13:07 [root:Command] methods
+succubus -> 2023/07/02 17:14:16 [root:Command] cls
+succubus -> 2023/07/02 17:15:41 [root:Login] 58.179.166.63:54342 Australia/Melbourne
+succubus -> 2023/07/02 17:23:34 [root:Login] 51.81.42.9:2854 America/New_York
+succubus -> 2023/07/02 17:23:39 [root:Command] users add
+succubus -> 2023/07/02 17:24:25 [root:Command] users add
+succubus -> 2023/07/02 17:25:18 [ash:Login] 51.81.42.9:2872 America/New_York
+succubus -> 2023/07/02 17:27:07 [ash:Command] cls
+succubus -> 2023/07/02 17:28:19 [ash:Command] cls
+succubus -> 2023/07/02 17:28:22 [ash:Command] cls
+succubus -> 2023/07/02 17:28:24 [ash:Command] cls
+succubus -> 2023/07/02 17:28:33 [root:Login] 58.179.166.63:54733 Australia/Melbourne
+succubus -> 2023/07/02 17:30:33 [root:Command] exit
+succubus -> 2023/07/02 17:30:42 [root:Login] 58.179.166.63:54763 Australia/Melbourne
+succubus -> 2023/07/02 17:31:04 [ash:Command] quit
+succubus -> 2023/07/02 17:31:08 [ash:Command] quit
+succubus -> 2023/07/02 17:31:20 [ash:Login] 51.81.42.9:2959 America/New_York
+succubus -> 2023/07/02 17:36:12 [root:Command] help
+succubus -> 2023/07/02 17:37:02 [root:Command] cls
+succubus -> 2023/07/02 17:37:25 [root:Command] cls
+succubus -> 2023/07/02 17:37:54 [root:Command] cls
+succubus -> 2023/07/02 17:38:00 [root:Command] cls
+succubus -> 2023/07/02 17:38:33 [ash:Command] cls
+succubus -> 2023/07/02 17:38:39 [root:Command] cls
+succubus -> 2023/07/02 17:41:32 [root:Command] cls
+succubus -> 2023/07/02 17:41:44 [ash:Command] cls
+succubus -> 2023/07/02 17:41:49 [root:Command] cls
+succubus -> 2023/07/02 17:45:02 [ash:Command] cls
+succubus -> 2023/07/02 17:47:55 [root:Command] cls
+succubus -> 2023/07/02 17:47:55 [ash:Command] tester
+succubus -> 2023/07/02 17:48:17 [ash:Command] tester
+succubus -> 2023/07/02 17:48:19 [ash:Command] tester
+succubus -> 2023/07/02 17:57:29 [root:Command] cls
+succubus -> 2023/07/02 18:03:18 [root:Command] cls
+succubus -> 2023/07/02 18:05:23 [ash:Command] cld
+succubus -> 2023/07/02 18:05:25 [ash:Command] cls
+succubus -> 2023/07/02 18:11:39 [root:Command] cls
+succubus -> 2023/07/02 18:11:54 [root:Command] tester
+succubus -> 2023/07/02 18:12:02 [root:Command] tester
+succubus -> 2023/07/02 18:12:17 [root:Command] tester
+succubus -> 2023/07/02 18:12:57 [root:Login] 58.179.166.63:56084 Australia/Melbourne
+succubus -> 2023/07/02 18:13:03 [root:Command] tester
+succubus -> 2023/07/02 18:13:06 [root:Command] cls
+succubus -> 2023/07/02 18:13:26 [root:Command] tester
+succubus -> 2023/07/02 18:13:43 [root:Command] cls
+succubus -> 2023/07/02 18:13:45 [root:Command] cls
+succubus -> 2023/07/02 18:13:47 [root:Command] cls
+succubus -> 2023/07/02 18:13:48 [root:Command] cls
+succubus -> 2023/07/02 18:13:49 [root:Command] cls
+succubus -> 2023/07/02 18:13:51 [root:Command] cls
+succubus -> 2023/07/02 18:14:18 [root:Command] cls
+succubus -> 2023/07/02 18:14:21 [root:Command] cls
+succubus -> 2023/07/02 18:14:49 [root:Command] cls
+succubus -> 2023/07/02 18:15:20 [root:Command] cls
+succubus -> 2023/07/02 18:15:34 [root:Command] clks
+succubus -> 2023/07/02 18:15:35 [root:Command] cls
+succubus -> 2023/07/02 18:15:40 [root:Command] cls
+succubus -> 2023/07/02 18:15:45 [root:Command] cls
+succubus -> 2023/07/02 18:15:52 [root:Command] cls
+succubus -> 2023/07/02 18:16:02 [root:Command] cls
+succubus -> 2023/07/02 18:16:17 [root:Command] cls
+succubus -> 2023/07/02 18:16:23 [root:Command] cls
+succubus -> 2023/07/02 18:16:29 [root:Command] cls
+succubus -> 2023/07/02 18:16:35 [root:Command] cls
+succubus -> 2023/07/02 18:16:58 [root:Command] cls
+succubus -> 2023/07/02 18:17:17 [root:Command] cls
+succubus -> 2023/07/02 18:18:28 [root:Command] cls
+succubus -> 2023/07/02 18:19:10 [root:Command] usersadd
+succubus -> 2023/07/02 18:19:15 [root:Command] users add
+succubus -> 2023/07/02 18:19:33 [root:Login] 58.179.166.63:56197 Australia/Melbourne
+succubus -> 2023/07/02 18:19:52 [root:Command] users remove
+succubus -> 2023/07/02 18:20:10 [root:Command] users list
+succubus -> 2023/07/02 18:20:29 [root:Command] cls
+succubus -> 2023/07/02 18:21:44 [root:Command] cls
+succubus -> 2023/07/02 18:21:56 [root:Command] cls
+succubus -> 2023/07/02 18:23:00 [root:Command] cls
+succubus -> 2023/07/02 18:26:04 [root:Command] cls
+succubus -> 2023/07/02 18:35:04 [root:Command] cls
+succubus -> 2023/07/02 18:37:12 [root:Command] cls
+succubus -> 2023/07/02 18:39:57 [root:Command] cls
+succubus -> 2023/07/02 18:41:40 [root:Command] cls
+succubus -> 2023/07/02 18:54:52 [root:Command] cls
+succubus -> 2023/07/02 18:58:14 [root:Command] cls
+succubus -> 2023/07/02 19:54:58 [root:Login] 58.179.166.63:59495 Australia/Melbourne
+succubus -> 2023/07/02 20:13:06 [root:Login] 58.179.166.63:59785 Australia/Melbourne
+succubus -> 2023/07/02 20:13:14 [root:Command] methods
+succubus -> 2023/07/02 20:14:13 [root:Command] udp 58.179.166.63
+succubus -> 2023/07/02 20:14:13 [root:Attack] {App:CNC,Hosts:1,Host:58.179.166.63,Port:80,Time:100,Method:udp}
+succubus -> 2023/07/02 20:14:35 [root:Command] udp 58.179.166.63 120
+succubus -> 2023/07/02 20:14:48 [root:Command] cls
+succubus -> 2023/07/02 20:14:53 [root:Command] cls
+succubus -> 2023/07/02 20:15:28 [root:Command] cls
+succubus -> 2023/07/02 20:16:36 [root:Command] cls
+succubus -> 2023/07/02 20:16:41 [root:Command] methods
+succubus -> 2023/07/02 20:16:46 [root:Command] cls
+succubus -> 2023/07/02 20:18:13 [root:Login] 58.179.166.63:59968 Australia/Melbourne
+succubus -> 2023/07/02 20:18:21 [root:Command] cls
+succubus -> 2023/07/02 20:18:25 [root:Command] cls
+succubus -> 2023/07/02 20:18:33 [root:Command] cls
+succubus -> 2023/07/02 20:18:37 [root:Command] cls
+succubus -> 2023/07/02 20:22:07 [root:Login] 58.179.166.63:60044 Australia/Melbourne
+succubus -> 2023/07/02 20:23:26 [root:Command] cls
+succubus -> 2023/07/02 20:23:32 [root:Command] cls
+succubus -> 2023/07/02 20:23:39 [root:Command] cls
+succubus -> 2023/07/02 20:23:44 [root:Command] cls
+succubus -> 2023/07/02 20:23:48 [root:Command] cls
+succubus -> 2023/07/02 20:23:53 [root:Command] cls
+succubus -> 2023/07/02 20:23:57 [root:Command] cls
+succubus -> 2023/07/02 20:24:02 [root:Command] cls
+succubus -> 2023/07/02 20:24:07 [root:Command] cls
+succubus -> 2023/07/02 20:24:11 [root:Command] cls
+succubus -> 2023/07/02 20:24:19 [root:Command] cls
+succubus -> 2023/07/02 20:24:24 [root:Command] cls
+succubus -> 2023/07/02 20:24:32 [root:Command] cls
+succubus -> 2023/07/02 20:24:36 [root:Command] cls
+succubus -> 2023/07/02 20:24:45 [root:Command] cls
+succubus -> 2023/07/02 20:24:49 [root:Command] cls
+succubus -> 2023/07/02 20:28:44 [root:Command] cls
+succubus -> 2023/07/02 20:30:59 [root:Login] 58.179.166.63:60190 Australia/Melbourne
+succubus -> 2023/07/02 20:31:50 [root:Command] cls
+succubus -> 2023/07/02 20:32:31 [root:Command] help
+succubus -> 2023/07/02 20:32:46 [root:Command] myinfo
+succubus -> 2023/07/02 20:33:03 [root:Command] cls
+succubus -> 2023/07/02 20:33:09 [root:Command] cls
+succubus -> 2023/07/02 20:45:43 [root:Command] cls
+succubus -> 2023/07/02 20:47:53 [root:Command] cls
+succubus -> 2023/07/02 20:48:07 [root:Login] 58.179.166.63:60550 Australia/Melbourne
+succubus -> 2023/07/02 20:48:12 [root:Command] cls
+succubus -> 2023/07/02 20:48:32 [root:Login] 58.179.166.63:60556 Australia/Melbourne
+succubus -> 2023/07/02 20:50:18 [root:Login] 58.179.166.63:60594 Australia/Melbourne
+succubus -> 2023/07/02 20:51:19 [root:Command] cls
+succubus -> 2023/07/02 20:52:25 [root:Command] cls
+succubus -> 2023/07/02 20:53:30 [root:Login] 58.179.166.63:60624 Australia/Melbourne
+succubus -> 2023/07/02 20:53:35 [root:Command] cls
+succubus -> 2023/07/02 20:53:40 [root:Command] clsd
+succubus -> 2023/07/02 20:53:41 [root:Command] cls
+succubus -> 2023/07/02 20:54:28 [root:Command] cls
+succubus -> 2023/07/02 20:54:32 [root:Command] cls
+succubus -> 2023/07/02 20:54:36 [root:Command] cls
+succubus -> 2023/07/02 20:54:40 [root:Command] cls
+succubus -> 2023/07/02 20:56:57 [root:Command] cls
+succubus -> 2023/07/02 20:57:13 [root:Login] 58.179.166.63:60773 Australia/Melbourne
+succubus -> 2023/07/02 20:58:05 [root:Login] 58.179.166.63:60780 Australia/Melbourne
+succubus -> 2023/07/02 20:58:31 [root:Command] cls
+succubus -> 2023/07/02 20:58:35 [root:Command] cls
+succubus -> 2023/07/02 21:00:47 [root:Command] cls
+succubus -> 2023/07/02 21:00:51 [root:Command] cls
+succubus -> 2023/07/02 21:00:54 [root:Command] cls
+succubus -> 2023/07/02 21:00:58 [root:Command] cls
+succubus -> 2023/07/02 21:10:55 [root:Command] cls
+succubus -> 2023/07/02 21:10:59 [root:Command] help
+succubus -> 2023/07/02 21:11:30 [root:Command] ongoing
+succubus -> 2023/07/02 21:13:30 [root:Command] theme
+succubus -> 2023/07/02 21:13:34 [root:Command] thtms
+succubus -> 2023/07/02 21:13:36 [root:Command] themes
+succubus -> 2023/07/02 21:13:46 [root:Command] account\
+succubus -> 2023/07/02 21:13:48 [root:Command] account
+succubus -> 2023/07/02 21:13:50 [root:Command] info
+succubus -> 2023/07/02 21:13:52 [root:Command] cls
+succubus -> 2023/07/02 21:33:43 [root:Command] cls
+succubus -> 2023/07/02 21:33:47 [root:Command] cs
+succubus -> 2023/07/02 21:33:49 [root:Command] cls
+succubus -> 2023/07/02 21:34:26 [root:Command] cls
+succubus -> 2023/07/02 21:34:46 [root:Command] help
+succubus -> 2023/07/02 21:34:56 [root:Command] users
+succubus -> 2023/07/02 21:35:29 [root:Command] users list
+succubus -> 2023/07/02 21:36:22 [root:Command] users add
+succubus -> 2023/07/02 21:37:17 [root:Command] cls
+succubus -> 2023/07/02 21:37:22 [root:Command] users add
+succubus -> 2023/07/02 21:38:01 [root:Command] cls
+succubus -> 2023/07/02 21:38:06 [root:Command] cls
+succubus -> 2023/07/02 21:38:13 [root:Command] cls
+succubus -> 2023/07/02 21:38:18 [root:Command] users list
+succubus -> 2023/07/02 21:38:37 [root:Command] cls
+succubus -> 2023/07/02 21:38:43 [root:Command] cls
+succubus -> 2023/07/02 21:38:50 [root:Command] cls
+succubus -> 2023/07/02 21:38:56 [root:Command] cls
+succubus -> 2023/07/02 21:39:08 [root:Command] cls
+succubus -> 2023/07/02 21:39:16 [root:Command] cls
+succubus -> 2023/07/02 21:39:21 [root:Command] cls
+succubus -> 2023/07/02 21:39:25 [root:Command] cls
+succubus -> 2023/07/02 21:40:36 [root:Command] cls
+succubus -> 2023/07/02 21:40:42 [root:Command] themes list
+succubus -> 2023/07/02 21:40:44 [root:Command] theme list
+succubus -> 2023/07/02 21:41:10 [root:Command] theme set outdated
+succubus -> 2023/07/02 21:41:17 [root:Command] cl
+succubus -> 2023/07/02 21:41:20 [root:Command] cls
+succubus -> 2023/07/02 21:41:25 [root:Command] users list
+succubus -> 2023/07/02 21:41:31 [root:Command] cls
+succubus -> 2023/07/02 21:42:56 [root:Command] cls
+succubus -> 2023/07/02 21:43:00 [root:Command] cls
+succubus -> 2023/07/02 21:43:03 [root:Command] cls
+succubus -> 2023/07/02 21:43:18 [root:Command] cls
+succubus -> 2023/07/02 21:43:21 [root:Command] cls
+succubus -> 2023/07/02 21:43:24 [root:Command] cl
+succubus -> 2023/07/02 21:43:27 [root:Command] cls
+succubus -> 2023/07/02 21:43:32 [root:Command] cls
+succubus -> 2023/07/02 21:43:41 [root:Command] cls
+succubus -> 2023/07/02 21:43:46 [root:Command] cls
+succubus -> 2023/07/02 21:43:50 [root:Command] clas
+succubus -> 2023/07/02 21:43:51 [root:Command] cls
+succubus -> 2023/07/02 21:44:07 [root:Command] methods
+succubus -> 2023/07/02 21:45:22 [root:Command] cls
+succubus -> 2023/07/02 21:45:39 [root:Command] cls
+succubus -> 2023/07/02 21:47:46 [root:Command] cls
+succubus -> 2023/07/02 21:51:00 [root:Command] cls
+succubus -> 2023/07/02 21:51:04 [root:Command] cls
+succubus -> 2023/07/02 21:51:07 [root:Command] cs
+succubus -> 2023/07/02 21:51:09 [root:Command] cls
+succubus -> 2023/07/02 21:51:14 [root:Command] cls
+succubus -> 2023/07/02 21:53:48 [root:Command] cls
+succubus -> 2023/07/02 21:55:06 [root:Command] cls
+succubus -> 2023/07/02 21:55:10 [root:Command] cls
+succubus -> 2023/07/02 21:55:16 [root:Command] users list
+succubus -> 2023/07/02 21:55:29 [root:Command] users add
+succubus -> 2023/07/02 21:56:38 [root:Command] users add
+succubus -> 2023/07/02 21:57:08 [root:Command] cls
+succubus -> 2023/07/02 21:57:13 [root:Command] users list
+succubus -> 2023/07/02 21:57:28 [root:Command] cls
+succubus -> 2023/07/02 22:00:46 [root:Command] cls
+succubus -> 2023/07/02 22:01:02 [root:Login] 58.179.166.63:61312 Australia/Melbourne
+succubus -> 2023/07/02 22:01:08 [root:Command] cls
+succubus -> 2023/07/02 22:39:27 [root:Login] 58.179.166.63:61775 Australia/Melbourne
+succubus -> 2023/07/02 22:39:32 [root:Command] cls
+succubus -> 2023/07/02 23:11:19 [root:Login] 58.179.166.63:62155 Australia/Melbourne
+succubus -> 2023/07/02 23:11:24 [root:Command] cls
+succubus -> 2023/07/02 23:11:29 [root:Command] cls
+succubus -> 2023/07/02 23:11:46 [root:Command] cls
+succubus -> 2023/07/02 23:11:54 [root:Command] cls
+succubus -> 2023/07/02 23:11:58 [root:Command] cls
+succubus -> 2023/07/02 23:12:01 [root:Command] cls
+succubus -> 2023/07/02 23:48:55 [root:Login] 58.179.166.63:62551 Australia/Melbourne
+succubus -> 2023/07/02 23:49:24 [root:Command] cls
+succubus -> 2023/07/02 23:49:31 [root:Command] cls
+succubus -> 2023/07/03 05:07:18 [ash:Login] 149.167.160.51:3253 Australia/Perth
+succubus -> 2023/07/03 05:10:50 [ash:Command] tester
+succubus -> 2023/07/03 05:13:01 [ash:Command] tester
+succubus -> 2023/07/03 05:13:33 [ash:Command] tester
+succubus -> 2023/07/03 05:13:36 [ash:Command] tester
+succubus -> 2023/07/03 05:13:55 [ash:Command] tester
+succubus -> 2023/07/03 05:13:56 [ash:Command] tester
+succubus -> 2023/07/03 05:13:58 [ash:Command] tester
+succubus -> 2023/07/03 05:14:17 [ash:Command] tester
+succubus -> 2023/07/03 05:14:46 [ash:Command] tester
+succubus -> 2023/07/03 05:14:59 [ash:Command] tester
+succubus -> 2023/07/03 05:16:20 [ash:Command] tester
+succubus -> 2023/07/03 05:16:54 [ash:Command] clear
+succubus -> 2023/07/03 05:17:49 [ash:Command] clear
+succubus -> 2023/07/03 05:17:55 [ash:Command] help
+succubus -> 2023/07/03 05:17:58 [ash:Command] clear
+succubus -> 2023/07/03 05:18:23 [ash:Command] udp 124.40.41.421 52 120
+succubus -> 2023/07/03 05:18:37 [ash:Command] udp 124.40.41.121 52 120
+succubus -> 2023/07/03 05:18:37 [ash:Attack] {App:CNC,Hosts:1,Host:124.40.41.121,Port:52,Time:120,Method:udp}
+succubus -> 2023/07/03 05:19:00 [ash:Command] clear
+succubus -> 2023/07/03 05:21:06 [ash:Command] devices
+succubus -> 2023/07/03 05:22:31 [ash:Command] devices
+succubus -> 2023/07/03 05:23:36 [ash:Command] devices
+succubus -> 2023/07/03 05:23:43 [ash:Command] key
+succubus -> 2023/07/03 05:26:53 [ash:Login] 149.167.160.51:3440 Australia/Perth
+succubus -> 2023/07/03 05:27:14 [ash:Login] 149.167.160.51:3448 Australia/Perth
+succubus -> 2023/07/03 05:33:01 [ash:Login] 149.167.160.51:3496 Australia/Perth
+succubus -> 2023/07/03 05:34:58 [ash:Login] 149.167.160.51:3507 Australia/Perth
+succubus -> 2023/07/03 05:38:44 [ash:Login] 149.167.160.51:3536 Australia/Perth
+succubus -> 2023/07/03 05:40:28 [ash:Login] 149.167.160.51:3549 Australia/Perth
+succubus -> 2023/07/03 05:41:05 [ash:Login] 149.167.160.51:3559 Australia/Perth
+succubus -> 2023/07/03 08:31:37 [root:Login] 58.179.166.63:49236 Australia/Melbourne
+succubus -> 2023/07/03 08:33:46 [root:Login] 58.179.166.63:49259 Australia/Melbourne
+succubus -> 2023/07/03 08:34:06 [root:Login] 58.179.166.63:49266 Australia/Melbourne
+succubus -> 2023/07/03 08:34:14 [root:Command] cls
+succubus -> 2023/07/03 08:34:18 [root:Command] users list
+succubus -> 2023/07/03 08:34:57 [root:Command] users remove
+succubus -> 2023/07/03 08:35:02 [root:Command] users delete
+succubus -> 2023/07/03 08:35:11 [root:Command] users remove trjpa
+succubus -> 2023/07/03 08:35:20 [root:Command] users list
+succubus -> 2023/07/03 08:35:47 [root:Command] cls
+succubus -> 2023/07/03 08:35:49 [root:Command] users add
+succubus -> 2023/07/03 08:37:46 [root:Command] cls
+succubus -> 2023/07/03 08:39:34 [root:Command] cls
+succubus -> 2023/07/03 08:39:36 [root:Command] cls
+succubus -> 2023/07/03 08:39:56 [root:Command] cls
+succubus -> 2023/07/03 08:41:00 [root:Login] 58.179.166.63:49313 Australia/Melbourne
+succubus -> 2023/07/03 08:41:07 [root:Command] cls
+succubus -> 2023/07/03 08:41:21 [root:Command] methods
+succubus -> 2023/07/03 08:41:34 [root:Command] cls
+succubus -> 2023/07/03 08:43:02 [ash:Login] 51.81.42.12:19443 America/New_York
+succubus -> 2023/07/03 08:52:05 [root:Command] cls
+succubus -> 2023/07/03 08:54:52 [root:Command] cls
+succubus -> 2023/07/03 08:55:49 [root:Command] cls
+succubus -> 2023/07/03 08:56:05 [root:Command] users list
+succubus -> 2023/07/03 08:56:16 [root:Command] cls
+succubus -> 2023/07/03 09:02:38 [root:Command] methods
+succubus -> 2023/07/03 09:03:06 [root:Command] bigddos 2.3.21345.34.2315.235
+succubus -> 2023/07/03 09:03:26 [root:Command] bigddos 70.70.70.3 80 3
+succubus -> 2023/07/03 09:03:26 [root:Attack] {App:CNC,Hosts:1,Host:70.70.70.3,Port:80,Time:3,Method:bigddos}
+succubus -> 2023/07/03 09:04:28 [root:Command] help
+succubus -> 2023/07/03 09:05:53 [root:Command] cls
+succubus -> 2023/07/03 09:05:54 [root:Command] tester
+succubus -> 2023/07/03 09:05:59 [root:Command] methods
+succubus -> 2023/07/03 09:06:03 [root:Command] tester
+succubus -> 2023/07/03 09:06:14 [root:Command] cls
+succubus -> 2023/07/03 09:07:47 [root:Command] cs
+succubus -> 2023/07/03 09:07:48 [root:Command] methods
+succubus -> 2023/07/03 09:07:50 [root:Command] cls
+succubus -> 2023/07/03 09:07:51 [root:Command] tester
+succubus -> 2023/07/03 09:07:55 [root:Command] cls
+succubus -> 2023/07/03 09:08:11 [root:Login] 58.179.166.63:49906 Australia/Melbourne
+succubus -> 2023/07/03 09:08:17 [root:Command] methods
+succubus -> 2023/07/03 09:08:18 [root:Command] cls
+succubus -> 2023/07/03 09:08:23 [root:Command] tewstewr
+succubus -> 2023/07/03 09:08:24 [root:Command] tester
+succubus -> 2023/07/03 09:08:46 [root:Command] udp 1.1.1.1 80 20
+succubus -> 2023/07/03 09:10:06 [root:Command] cls
+succubus -> 2023/07/03 09:12:03 [ash:Command] methods
+succubus -> 2023/07/03 09:12:07 [ash:Command] methods
+succubus -> 2023/07/03 09:13:04 [root:Command] tester
+succubus -> 2023/07/03 09:13:06 [root:Command] cls
+succubus -> 2023/07/03 09:14:19 [ash:Command] methods
+succubus -> 2023/07/03 09:14:22 [ash:Command] methods
+succubus -> 2023/07/03 09:14:24 [ash:Command] method
+succubus -> 2023/07/03 09:14:30 [root:Command] tester
+succubus -> 2023/07/03 09:14:32 [root:Command] cls
+succubus -> 2023/07/03 09:14:34 [root:Command] users list
+succubus -> 2023/07/03 09:14:37 [root:Command] cls
+succubus -> 2023/07/03 09:14:50 [root:Command] cls
+succubus -> 2023/07/03 09:15:11 [ash:Command] .methods
+succubus -> 2023/07/03 09:16:14 [root:Command] cls
+succubus -> 2023/07/03 09:16:27 [ash:Command] .methods
+succubus -> 2023/07/03 09:16:35 [root:Command] methods
+succubus -> 2023/07/03 09:16:38 [root:Command] tester
+succubus -> 2023/07/03 09:16:39 [root:Command] cls
+succubus -> 2023/07/03 09:17:25 [root:Command] cls
+succubus -> 2023/07/03 09:17:30 [ash:Command] cls
+succubus -> 2023/07/03 09:17:30 [root:Command] methods
+succubus -> 2023/07/03 09:17:32 [ash:Command] methods
+succubus -> 2023/07/03 09:17:44 [root:Command] cls
+succubus -> 2023/07/03 09:17:46 [root:Command] methods
+succubus -> 2023/07/03 09:17:48 [root:Command] cls
+succubus -> 2023/07/03 09:18:05 [ash:Command] methods
+succubus -> 2023/07/03 09:18:07 [root:Command] methods
+succubus -> 2023/07/03 09:18:08 [root:Command] cls
+succubus -> 2023/07/03 09:18:27 [ash:Command] users list
+succubus -> 2023/07/03 09:18:47 [root:Command] users list
+succubus -> 2023/07/03 09:19:22 [root:Command] cl
+succubus -> 2023/07/03 09:19:24 [root:Command] cls
+succubus -> 2023/07/03 10:04:49 [root:Login] 58.179.166.63:50952 Australia/Melbourne
+succubus -> 2023/07/03 10:05:10 [root:Command] methofd
+succubus -> 2023/07/03 10:05:13 [root:Command] methodd
+succubus -> 2023/07/03 10:05:16 [root:Command] methods
+succubus -> 2023/07/03 10:05:25 [root:Command] clsz
+succubus -> 2023/07/03 10:05:27 [root:Command] cls
+succubus -> 2023/07/03 10:07:07 [root:Command] cls
+succubus -> 2023/07/03 10:24:48 [root:Login] 58.179.166.63:51367 Australia/Melbourne
+succubus -> 2023/07/03 10:24:58 [root:Command] methods
+succubus -> 2023/07/03 10:31:16 [root:Login] 58.179.166.63:51658 Australia/Melbourne
+succubus -> 2023/07/03 10:31:24 [root:Command] users add
+succubus -> 2023/07/03 10:31:57 [ash:Login] 149.167.160.51:3138 Australia/Perth
+succubus -> 2023/07/03 10:32:15 [ash:Login] 149.167.160.51:3147 Australia/Perth
+succubus -> 2023/07/03 10:32:17 [root:Command] users list
+succubus -> 2023/07/03 10:32:22 [root:Command] methods
+succubus -> 2023/07/03 10:32:24 [root:Command] cls
+succubus -> 2023/07/03 10:32:28 [ash:Command] users list
+succubus -> 2023/07/03 10:34:13 [root:Command] users list
+succubus -> 2023/07/03 10:34:27 [root:Command] users remove trjpa
+succubus -> 2023/07/03 10:34:36 [root:Command] users remove fiz
+succubus -> 2023/07/03 10:34:38 [root:Command] cls
+succubus -> 2023/07/03 10:34:40 [root:Command] users add
+succubus -> 2023/07/03 10:35:12 [root:Command] users list
+succubus -> 2023/07/03 10:35:21 [root:Command] cls
+succubus -> 2023/07/03 10:35:26 [root:Command] methods
+succubus -> 2023/07/03 10:36:26 [root:Command] users remove rhompastompa
+succubus -> 2023/07/03 10:36:32 [root:Command] uers add
+succubus -> 2023/07/03 10:36:34 [root:Command] users add
+succubus -> 2023/07/03 10:38:16 [root:Command] cls
